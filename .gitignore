@@ -1,0 +1,9 @@
+.idea
+.ivy2
+.sbt
+target
+.history
+gradle
+gradlew
+gradlew.bat
+logs
